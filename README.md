@@ -17,7 +17,6 @@ For a web application version of this tool, please visit https://scamdetective.m
 * SMILES in .csv or .txt.
 
 ## Requirements
-In order to get started you need:
 * Python 3.7 ([Anaconda](https://www.anaconda.com/distribution/) distribution is recommended)
 * [RDKit](https://www.rdkit.org/docs/Install.html)
 * [scikit-learn](http://scikit-learn.org/)
