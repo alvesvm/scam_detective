@@ -34,9 +34,9 @@ In order to get started you need:
 
 # Acknowledgements
 
-SCAM Detective is sponsored by [the UNC Eshelman School of Pharmacy](https://pharmacy.unc.edu/) of the [University of North Carolina at Chapel Hill](https://www.unc.edu/).
-<p align="center">
-  <img src="./docs/ESOP.png" alt="ESOP" width="400px">
-  <img src="./docs/UNCLogo.png" alt="UNC" width="400px">
+SCAM Detective is sponsored by the [UNC Eshelman School of Pharmacy](https://pharmacy.unc.edu/) of the [University of North Carolina at Chapel Hill](https://www.unc.edu/).
+<p align="middle">
+  <img src="./docs/ESOP.png" alt="ESOP" width="500px">
+  <img src="./docs/UNCLogo.png" alt="UNC" width="300px">
   <br>
 </p>
