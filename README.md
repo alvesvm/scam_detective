@@ -22,6 +22,10 @@ In order to get started you need:
 * [RDKit](https://www.rdkit.org/docs/Install.html)
 * [scikit-learn](http://scikit-learn.org/)
 
+## More information
+For more information, please refer to our paper:
+SCAM Detective: Accurate Predictorion of Small, Colloidally-Aggregating Molecules. _In progress_, **2020**.
+
 # Acknowledgements
 
 SCAM Detective is sponsored by the [UNC Eshelman School of Pharmacy](https://pharmacy.unc.edu/) of the [University of North Carolina at Chapel Hill](https://www.unc.edu/).
