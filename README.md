@@ -24,7 +24,7 @@ For a web application version of this tool, please visit https://scamdetective.m
 
 ## More information
 For more information, please refer to our paper:
-SCAM Detective: Accurate Predictorion of Small, Colloidally-Aggregating Molecules. _In progress_, **2020**.
+SCAM Detective: Accurate Predictorion of Small, Colloidally-Aggregating Molecules. Journal of Chemical Information and Modeling. _Submitted_, **2020**.
 
 # Acknowledgements
 
