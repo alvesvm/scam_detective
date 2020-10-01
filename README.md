@@ -1,4 +1,3 @@
-# SCAM Detective
 <p align="center">
   <img align="middle" src="/docs/logo.png" alt="SCAMDetective" width="800" class="center">
  </p>
