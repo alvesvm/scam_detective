@@ -17,7 +17,7 @@ The toolkit in this GitHub allows batch predictions.
 
 # Supported functionality
 ## Tasks:
-* to predict, with high accuracy, the detergent-sensitive aggregation of compounds in AmpC β-lactamase and cruzain inhibition assays, the preferred counter-screens used widely to identify false positives in the HTS campaigns.
+* To predict, with high accuracy, the detergent-sensitive aggregation of compounds in AmpC β-lactamase and cruzain inhibition assays, the preferred counter-screens used widely to identify false positives in the HTS campaigns.
 * Maps of the predicted fragment contribution are generated allowing interpretation of the predictions.
 
 ## Data types allowed as input
