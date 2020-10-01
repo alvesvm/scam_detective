@@ -17,10 +17,14 @@ For a web application version of this tool, please visit https://scamdetective.m
 * SMILES in .csv or .txt.
 
 ## Requirements
-In order to get started you need:
+* Download QSIR models from [here](https://figshare.com/s/bcf12452709c1fac3a58).
 * Python 3.7 ([Anaconda](https://www.anaconda.com/distribution/) distribution is recommended)
 * [RDKit](https://www.rdkit.org/docs/Install.html)
 * [scikit-learn](http://scikit-learn.org/)
+
+## More information
+For more information, please refer to our paper:
+SCAM Detective: Accurate Predictorion of Small, Colloidally-Aggregating Molecules. Journal of Chemical Information and Modeling. _Submitted_, **2020**.
 
 # Acknowledgements
 
