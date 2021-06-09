@@ -42,6 +42,6 @@ Alves, V. M.; Capuzzi, S. J.; Braga, R.; Korn, D.; Hochuli, J.; Bowler, K.; Yasg
 SCAM Detective is sponsored by the [UNC Eshelman School of Pharmacy](https://pharmacy.unc.edu/) of the [University of North Carolina at Chapel Hill](https://www.unc.edu/).
 <p align="middle">
   <img src="./docs/ESOP.png" alt="ESOP" width="500px">
-  <img src="./docs/UNC.jpg" alt="UNC" width="300px">
+  <img src="./docs/niehs.png" alt="UNC" width="300px">
   <br>
 </p>
