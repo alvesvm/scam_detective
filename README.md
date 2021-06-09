@@ -30,8 +30,8 @@ The toolkit in this GitHub allows batch predictions.
 * [scikit-learn](http://scikit-learn.org/)
 
 ## More information
-For more information, please refer to our paper:
-Alves, V. M.; Capuzzi, S. J.; Braga, R.; Korn, D.; Hochuli, J.; Bowler, K.; Yasgar, A.; Rai, G.; Simeonov, A.; Muratov, E. N.; Zakharov, A. V.; Tropsha, A. SCAM Detective: Accurate Predictor of Small, Colloidally-Aggregating Molecules. *J. Chem. Inf. Model.* **2020**, *acs.jcim.0c00415*. https://doi.org/10.1021/acs.jcim.0c00415. Our paper was the Editor's choice for the August issue of the journal:
+For more information, please refer to our paper:<br>
+Alves, V. M.; Capuzzi, S. J.; Braga, R. C.; Korn, D.; Hochuli, J. E.; Bowler, K. H.; Yasgar, A.; Rai, G.; Simeonov, A.; Muratov, E. N.; Zakharov, A. V.; Tropsha, A. **SCAM Detective: Accurate Predictor of Small, Colloidally Aggregating Molecules.** *J. Chem. Inf. Model.* **2020**, *60* (8), 4056–4063. https://doi.org/10.1021/acs.jcim.0c00415. Our paper was the Editor's choice for the August issue of the journal:
 
 <p align="center">
   <img align="middle" src="/docs/cover.png" alt="JCIMcover" width="400px" class="center">
@@ -42,6 +42,6 @@ Alves, V. M.; Capuzzi, S. J.; Braga, R.; Korn, D.; Hochuli, J.; Bowler, K.; Yasg
 SCAM Detective is sponsored by the [UNC Eshelman School of Pharmacy](https://pharmacy.unc.edu/) of the [University of North Carolina at Chapel Hill](https://www.unc.edu/).
 <p align="middle">
   <img src="./docs/ESOP.png" alt="ESOP" width="500px">
-  <img src="./docs/niehs.png" alt="UNC" width="300px">
+  <img src="./docs/UNC.jpg" alt="UNC" width="280px">
   <br>
 </p>
